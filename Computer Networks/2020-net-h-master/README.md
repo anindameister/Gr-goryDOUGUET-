@@ -10,7 +10,7 @@
 ## Process
 ### 1. As soon as the peer files and tracker file  are run, the connection to the tracker is established automatically.
 
-<img src=https://github.com/anindameister/Gr-goryDOUGUET-/blob/main/Computer%20Networks/2020-net-h-master/images/Tracker%20output.JPG">
+<img src="https://github.com/anindameister/Gr-goryDOUGUET-/blob/main/Computer%20Networks/2020-net-h-master/images/Tracker%20output.JPG">
 
 ### 2. Then a GUI window appears for each peer as shown below -
 
